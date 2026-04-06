@@ -33,7 +33,7 @@ finance-assignment/
 ## Setup
 1. Go to project folder:
 ```bash
-cd /home/anand/var/finance-assignment
+cd /home/anand/var/zorvyn/server
 ```
 
 2. Create env file:
